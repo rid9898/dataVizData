@@ -1,0 +1,27 @@
+District,Occupation,Count
+Dhaka,Educationist,73
+Dhaka,Journalist,11
+Dhaka,Lawyer,6
+Dhaka,Physician,46
+Dhaka,Literature and Artist,9
+Dhaka,Engineer,3
+Dhaka,Others,1
+
+Chittagong,Educationist,62
+Chittagong,Lawyer,1
+Chittagong,Engineer,1
+
+Sylhet,Educationist,26
+Sylhet,Lawyer,2
+
+Khulna,Educationist,65
+Khulna,Journalist,1
+Khulna,Lawyer,2
+
+Rajshahi,Educationist,54
+Rajshahi,Journalist,1
+Rajshahi,Lawyer,5
+Rajshahi,Engineer,1
+
+Rangpur,Educationist,72
+Rangpur,Lawyer,4
